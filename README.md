@@ -3,7 +3,7 @@
 
 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃 Specialisation in ML/AI and optimisation
 
-## • ♡ • Stack:
+## • ⏻ • Stack:
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
