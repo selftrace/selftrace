@@ -1,4 +1,4 @@
-## /ᐠ - ˕ -マ Nin here ~ 
+## /ᐠ - ˕ -マ Nin here:
 ⋆.˚ Machine learning & Data Scientist in Spain
 
 ˚｡⋆ Specialisation in ML/AI and optimisation
