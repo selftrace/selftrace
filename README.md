@@ -1,7 +1,7 @@
 ## /ᐠ - ˕ -マ Nin here:
-▀▄▀▄▀▄ Machine learning & Data Scientist in Spain
+𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃 Machine learning & Data Scientist in Spain
 
-███░░░ Specialisation in ML/AI and optimisation
+𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃 Specialisation in ML/AI and optimisation
 
 ## • ♡ • Stack:
 
