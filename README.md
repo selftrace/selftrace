@@ -16,6 +16,7 @@
 
 ## Stats:
 
-![Nin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=selftrace&show_icons=true&theme=tokyonight&count_private=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selftrace&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=selftrace&show_icons=true&theme=tokyonight" alt="Nin's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selftrace&layout=compact&theme=tokyonight" alt="Most Used Languages" height="180" />
+</p>
